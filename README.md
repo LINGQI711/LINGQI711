@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" width="100%" alt="Yaoyi Qi — Computer Vision, Agents, Multimodal AI, and Spatiotemporal Intelligence" />
+<img src="./assets/research-banner.jpg" width="100%" alt="Remote sensing, disaster response, intelligent agents, and embodied intelligence" />
 
 **I explore intelligent systems that perceive, reason, and act across visual, multimodal, and spatiotemporal environments.**
 
