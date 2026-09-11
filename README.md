@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:4EA1FF&height=190&section=header&text=Yaoyi%20Qi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Vision%20%7C%20Agents%20%7C%20Multimodal%20AI%20%7C%20Spatiotemporal%20Intelligence&descAlignY=57&descSize=15" width="100%" alt="Yaoyi Qi header" />
-</p>
+<img src="./assets/header.svg" width="100%" alt="Yaoyi Qi — Computer Vision, Agents, Multimodal AI, and Spatiotemporal Intelligence" />
 
 **I explore intelligent systems that perceive, reason, and act across visual, multimodal, and spatiotemporal environments.**
 
