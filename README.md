@@ -3,30 +3,14 @@
 </p>
 
 <p align="center">
-  I am interested in building intelligent systems that can perceive,<br/>
-  understand, and interact with the world.
+  I am interested in building intelligent systems that can perceive, understand, and interact with the world.
 </p>
 
-<h2 align="center">Research Interests</h2>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Vision-1565C0?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Intelligent%20Agents-1976D2?style=for-the-badge" alt="Intelligent Agents" />
-  <br/>
-  <img src="https://img.shields.io/badge/Multimodal%20Large%20Language%20Models-1E88E5?style=for-the-badge" alt="Multimodal Large Language Models" />
-  <img src="https://img.shields.io/badge/Spatiotemporal%20Intelligence-42A5F5?style=for-the-badge" alt="Spatiotemporal Intelligence" />
-</p>
-
-<h2 align="center">Connect with Me</h2>
-
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=8J6XFdYAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Research%20Profile-1976D2?style=flat-square" alt="Google Scholar" />
-  </a>
-  <a href="https://blog.csdn.net/qq_73553710">
-    <img src="https://img.shields.io/badge/CSDN-Technical%20Blog-2196F3?style=flat-square" alt="CSDN Blog" />
-  </a>
-  <a href="mailto:qiyaoyi@whu.edu.cn">
-    <img src="https://img.shields.io/badge/Email-qiyaoyi%40whu.edu.cn-42A5F5?style=flat-square" alt="Email" />
-  </a>
+  Find my publications and academic profile on
+  <a href="https://scholar.google.com/citations?user=8J6XFdYAAAAJ&hl=en"><img align="center" src="https://img.shields.io/badge/Google%20Scholar-Profile-1976D2?style=flat-square" alt="Google Scholar" /></a><br/>
+  I share recent work I am following and my study notes on
+  <a href="https://blog.csdn.net/qq_73553710"><img align="center" src="https://img.shields.io/badge/CSDN-Blog-2196F3?style=flat-square" alt="CSDN Blog" /></a><br/>
+  Feel free to reach me at
+  <a href="mailto:qiyaoyi@whu.edu.cn"><img align="center" src="https://img.shields.io/badge/Email-qiyaoyi%40whu.edu.cn-42A5F5?style=flat-square" alt="Email" /></a>
 </p>
